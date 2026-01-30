@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\bin\Release\net8.0\Hrithik.Security.RequestSigning.deps.json
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\bin\Release\net8.0\Hrithik.Security.RequestSigning.dll
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\bin\Release\net8.0\Hrithik.Security.RequestSigning.pdb
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\bin\Release\net8.0\Hrithik.Security.RequestSigning.xml
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\Hrithik.Security.RequestSigning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\Hrithik.Security.RequestSigning.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\Hrithik.Security.RequestSigning.AssemblyInfo.cs
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\Hrithik.Security.RequestSigning.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\Hrithik.Security.RequestSigning.sourcelink.json
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\Hrithik.Security.RequestSigning.dll
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\refint\Hrithik.Security.RequestSigning.dll
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\Hrithik.Security.RequestSigning.xml
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\Hrithik.Security.RequestSigning.pdb
+C:\Users\user\Desktop\HRITHIK\Personal\NugetPackageCode\LibMainProj\Hrithik.Security.RequestSigning\obj\Release\net8.0\ref\Hrithik.Security.RequestSigning.dll

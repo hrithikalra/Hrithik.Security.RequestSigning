@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hrithik.Security.RequestSigning</name>
+    </assembly>
+    <members>
+        <member name="T:Hrithik.Security.RequestSigning.Abstractions.ISigningKeyProvider">
+            <summary>
+            Provides signing secrets for a given client identifier.
+            </summary>
+        </member>
+        <member name="M:Hrithik.Security.RequestSigning.Abstractions.ISigningKeyProvider.GetSecretAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Returns the signing secret for the specified client.
+            </summary>
+        </member>
+        <member name="T:Hrithik.Security.RequestSigning.Options.RequestSigningOptions">
+            <summary>
+            Configuration options for HTTP request signing.
+            </summary>
+        </member>
+        <member name="P:Hrithik.Security.RequestSigning.Options.RequestSigningOptions.AllowedClockSkew">
+            <summary>
+            Maximum allowed clock skew between client and server.
+            </summary>
+        </member>
+    </members>
+</doc>

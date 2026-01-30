@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<!-- Target -->
+		<TargetFramework>net8.0</TargetFramework>
+
+		<!-- NuGet metadata -->
+		<PackageId>Hrithik.Security.RequestSigning</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Hrithik Kalra</Authors>
+		<Company>MainLibProj</Company>
+		<Description>Enterprise-grade HTTP Request Signing for .NET APIs.</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+
+		<!-- Build -->
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	</PropertyGroup>
+
+  <ItemGroup>
+	  <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+	<!-- Pack README -->
+	<ItemGroup>
+		<None Include="README.md" Pack="true" PackagePath="\" />
+	</ItemGroup>
+
+</Project>
