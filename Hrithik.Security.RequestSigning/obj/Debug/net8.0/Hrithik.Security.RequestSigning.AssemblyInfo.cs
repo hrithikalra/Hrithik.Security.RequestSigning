@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Enterprise-grade HTTP Request Signing for .NET APIs.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28c30dd5cc27b7401f7aea571294f13bde3b869c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+787bae1f4f25aae81d166fac1075aedf7fd0cc9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hrithik.Security.RequestSigning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hrithik.Security.RequestSigning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
